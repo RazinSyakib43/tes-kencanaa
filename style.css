@@ -142,7 +142,7 @@ h2{
     color: #062C30;
 }
 
-/* .top-product .card .btn-detail .btn-second:hover{
+.top-product .card .btn-detail .btn-second:hover{
     color: #062C30;
     background-color: #F6FBF4 ;
     border: 2px solid #062C30;
@@ -151,7 +151,7 @@ h2{
     font-weight: 500;
     text-decoration: none;
     transition: 0.3s all;
-} */
+}
 
 .top-product .card .btn-detail .btn-second{
     background-color: #062C30;
@@ -164,34 +164,18 @@ h2{
     transition: 0.3s all;
 }
 
-.top-product .card .btn-detail .btn-whatsapp:hover{
-    color: #062C30;
-    background-color: #F6FBF4 ;
-    border: 2px solid #062C30;
-    padding: 6px 10px;
-    border-radius: 10px;
-    font-weight: 500;
-    text-decoration: none;
-    transition: 0.3s all;
-}
 
 .top-product .card .btn-detail .btn-second i{
     font-size: 28px;    
     vertical-align: middle;
     text-align: center;
-}
-
-.top-product .card .btn-detail .btn-whatsapp{
-    background-color: #062C30;
     color: #F6FBF4;
-    border: 2px solid #062C30;
-    padding: 10px;
-    border-radius: 10px;
-    font-weight: 500;
-    text-decoration: none;
-    transition: 0.3s all;
-
 }
+
+.top-product .card .btn-detail .btn-second:hover i{
+    color: #062C30;
+}
+
 
 .top-product h5{
     font-weight: 500;
