@@ -232,7 +232,7 @@ h2{
     max-width: 100%;
     max-height: 100%;
     border-radius: 10px;
-    object-fit: cover;
+    object-fit: fill;
 }
 
 .article h6{
@@ -548,6 +548,17 @@ h2{
 .article{
     margin-top: 130px;
 }
+
+.article h4{
+    color: #062C30;
+    font-weight: 600;
+}
+
+.article .subheading-article{
+    color: #062C30;
+    text-align: justify;
+}
+
 @media screen and (max-width:575px) {
     .home{
         padding-top: 124px;
